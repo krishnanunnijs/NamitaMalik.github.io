@@ -14,3 +14,4 @@ AngularJS
 * [$routeParams in AngularJS](http://namitamalik.github.io/routeParams-in-AngularJS/)
 * [Filters in AngularJS](http://namitamalik.github.io/Filters-in-AngularJS/)
 * [MVC and MVVM with AngularJS](http://namitamalik.github.io/MVC-and-MVVM-with-AngularJS/)
+* [Auto-Scroll-To Directive](http://namitamalik.github.io/Auto-Scroll-To-Directive/)
