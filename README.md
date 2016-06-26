@@ -3,6 +3,7 @@
 Angular2
 ---
 
+* [ViewChild in Angular2](http://namitamalik.github.io/ViewChild-in-Angular2/)
 * [Services In Angular2](http://namitamalik.github.io/Services-in-Angular2/)
 * [NgRepeat vs ngFor](http://namitamalik.github.io/NgRepeat-vs-ngFor/)
 
@@ -24,4 +25,3 @@ JavaScript
 * [JavaScript Inheritance Revisited](http://namitamalik.github.io/JavaScript-Inheritance-Revisited/)
 * [2 Way Data Binding in Plain Vanilla JavaScript](http://namitamalik.github.io/2-way-data-binding-in-Plain-Vanilla-JavaScript/)
 * [Hoisting in JavaScript](http://namitamalik.github.io/Hoisting/)
-* [ViewChild in Angular2](http://namitamalik.github.io/ViewChild-in-Angular2/)
