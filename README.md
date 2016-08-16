@@ -3,7 +3,7 @@
 Angular2
 ---
 
-* [Realtime Update in Angular2](http://namitamalik.github.io/Realtime-Update-in-Angular2/)
+* [Realtime Update in Angular2](https://namitamalik.github.io/Realtime-Update-in-Angular2/)
 * [Fetching Data in Angular2](https://namitamalik.github.io/Fetching-Data-in-Angular2/)
 * [ViewChild in Angular2](https://namitamalik.github.io/ViewChild-in-Angular2/)
 * [Services In Angular2](https://namitamalik.github.io/Services-in-Angular2/)
