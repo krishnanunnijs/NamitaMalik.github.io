@@ -9,6 +9,11 @@ Angular2
 * [Services In Angular2](https://namitamalik.github.io/Services-in-Angular2/)
 * [NgRepeat vs ngFor](https://namitamalik.github.io/NgRepeat-vs-ngFor/)
 
+RxJs
+---
+
+* [Map vs FlatMap](https://namitamalik.github.io/Map-vs-FlatMap/)
+
 AngularJS
 ---
 
