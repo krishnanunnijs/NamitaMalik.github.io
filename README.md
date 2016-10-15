@@ -1,8 +1,9 @@
 #Blogs :
 
 Angular2
----
+--------
 
+* [Lazy Loading with Angular2 Routing](https://namitamalik.github.io/Lazy-Loading-with-Angular2-Routing/)
 * [Realtime Update in Angular2](https://namitamalik.github.io/Realtime-Update-in-Angular2/)
 * [Fetching Data in Angular2](https://namitamalik.github.io/Fetching-Data-in-Angular2/)
 * [ViewChild in Angular2](https://namitamalik.github.io/ViewChild-in-Angular2/)
@@ -32,3 +33,9 @@ JavaScript
 * [JavaScript Inheritance Revisited](https://namitamalik.github.io/JavaScript-Inheritance-Revisited/)
 * [2 Way Data Binding in Plain Vanilla JavaScript](https://namitamalik.github.io/2-way-data-binding-in-Plain-Vanilla-JavaScript/)
 * [Hoisting in JavaScript](https://namitamalik.github.io/Hoisting/)
+
+Follow Me
+---
+[Twitter](https://twitter.com/namita13_04)
+
+[LinkedIn](https://in.linkedin.com/in/namita-malik-a7885b23)
