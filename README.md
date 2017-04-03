@@ -10,6 +10,10 @@ Angular2
 * [Services In Angular2](https://namitamalik.github.io/Services-in-Angular2/)
 * [NgRepeat vs ngFor](https://namitamalik.github.io/NgRepeat-vs-ngFor/)
 
+ECMA6
+
+* [Spread & Rest Operator in ES6](https://namitamalik.github.io/Spread-and-Rest-Operator-in-ES6/)
+
 RxJs
 ---
 
